@@ -2,13 +2,13 @@
 
 ## Project topic
 
-The project topic id -- LASSO regression from scratch-- . The group will build a reusable C++17 library, following the C++ Group Project Instructions. LASSO is a regularized linear-regression method that uses an L1 penalty to shrink coefficients and select useful features.
+The project topic: LASSO regression from scratch. The group will build a reusable C++17 library, following the C++ Group Project Instructions. LASSO is a regularized linear-regression method that uses an L1 penalty to shrink coefficients and select useful features. In simple terms LASSO is a method that helps choose tte most important variables in a data set.
 
-## Parts taken from the supplied topic image
+## Parts taken from the given topic
 
-The image lists the following 13 project parts. The group has 13 members, so one primary part is assigned to each member. Each member begins the assigned part in Week 1 and continues adding to, testing, documenting, and integrating that same part in Weeks 2 and 3.
+The image lists the following 13 project parts. The group has 9 members, so the different parts were assigned to each member. Each member began the assigned part in Week 1 and will continue adding to, testing, documenting, and integrating that same part in Weeks 2 and 3.
 
-## Work contribution of memebers
+## Work contribution of memebers for week 1
 
 KALID ALIAS  | Dataset loading , Define the CSV format, target/feature convention, and invalid-file cases. 
 
@@ -25,7 +25,8 @@ Ssenabulya Samuel | LASSO cost function | Document the squared-error term, lambd
 Mawanda Hakim| L1 regularization,Prediction  | Explain why absolute-value penalties shrink coefficients and may produce zeros, Define the prediction API and input-dimension validation.
 
 Asiimwe Mary | Coordinate descent optimization,Model evaluation | Study the coordinate-wise update and convergence requirements,  Select MSE, RMSE, MAE, R², and train/validation/test reporting. 
-| Soft-thresholding, Hyperparameter tuning | Define and test the soft-threshold operator used by coordinate descent, Define lambda candidates, validation strategy, and reproducibility rules. 
+
+Bukenya Ivan Lubega| Soft-thresholding, Hyperparameter tuning | Define and test the soft-threshold operator used by coordinate descent, Define lambda candidates, validation strategy, and reproducibility rules. 
 
 
 ## Completed

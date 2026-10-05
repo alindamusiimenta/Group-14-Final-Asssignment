@@ -1,4 +1,6 @@
-target,feature_1,feature_2
-5,1,2
-4,2,1
-7,3,2
+score,hours_studied,attendance
+52,1,60
+55,2,65
+61,3,70
+66,4,80
+70,5,90
